@@ -1,0 +1,12 @@
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\bin\Debug\net6.0\Application.BP.Data.deps.json
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\bin\Debug\net6.0\Application.BP.Data.dll
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\bin\Debug\net6.0\Application.BP.Data.pdb
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\Application.BP.Data.csproj.AssemblyReference.cache
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\Application.BP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\Application.BP.Data.AssemblyInfoInputs.cache
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\Application.BP.Data.AssemblyInfo.cs
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\Application.BP.Data.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\Application.BP.Data.dll
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\refint\Application.BP.Data.dll
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\Application.BP.Data.pdb
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.Data\obj\Debug\net6.0\ref\Application.BP.Data.dll

@@ -25,3 +25,5 @@ C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.We
 C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.WebAPI\obj\Debug\net6.0\Application.BP.WebAPI.pdb
 C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.WebAPI\obj\Debug\net6.0\Application.BP.WebAPI.genruntimeconfig.cache
 C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.WebAPI\obj\Debug\net6.0\ref\Application.BP.WebAPI.dll
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.WebAPI\bin\Debug\net6.0\Application.BP.Data.dll
+C:\Users\Henry\Documents\Ejercicio BP\Prueba-BP\Application.BP\Application.BP.WebAPI\bin\Debug\net6.0\Application.BP.Data.pdb

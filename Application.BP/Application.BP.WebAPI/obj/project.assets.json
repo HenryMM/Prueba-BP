@@ -95,6 +95,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Application.BP.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Application.BP.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.BP.Data.dll": {}
+        }
       }
     }
   },
@@ -303,10 +313,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Application.BP.Data/1.0.0": {
+      "type": "project",
+      "path": "../Application.BP.Data/Application.BP.Data.csproj",
+      "msbuildProject": "../Application.BP.Data/Application.BP.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Application.BP.Data >= 1.0.0",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.17.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -337,7 +353,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Henry\\Documents\\Ejercicio BP\\Prueba-BP\\Application.BP\\Application.BP.Data\\Application.BP.Data.csproj": {
+              "projectPath": "C:\\Users\\Henry\\Documents\\Ejercicio BP\\Prueba-BP\\Application.BP\\Application.BP.Data\\Application.BP.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
