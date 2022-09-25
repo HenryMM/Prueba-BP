@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uNPJi6mwJP9noLj2YPPKm0/4WCwJft48LJGm1nXpKzE=",
+  "Source": "Application.BP.WebAPI",
+  "BasePath": "_content/Application.BP.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
